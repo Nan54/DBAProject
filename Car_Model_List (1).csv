@@ -1,0 +1,101 @@
+objectId,createdAt,updatedAt,ACL,Make,Year,Model,Category
+00NyD3beGf,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Ford,2013,Mustang,"Coupe, Convertible"
+00YMth3mul,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Mercury,1996,Sable,"Sedan, Wagon"
+01GwQ6QBez,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Hyundai,2018,Santa Fe Sport,SUV
+020TMk5fzW,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Lexus,1998,ES,Sedan
+027RDlEeck,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Mercedes-Benz,2017,Metris WORKER Cargo,Van/Minivan
+02Uymoe99h,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Toyota,2012,Sequoia,SUV
+034oz07gym,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Volkswagen,2019,Passat,Sedan
+03IPDtnQ30,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Ford,2001,Taurus,"Sedan, Wagon"
+04hXsKNweq,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Lexus,1999,SC,Coupe
+04oihKBzsM,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Honda,2016,HR-V,SUV
+053Z694LiH,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Dodge,2009,Ram 1500 Crew Cab,Pickup
+054wM9LZCE,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chevrolet,2016,Express 2500 Cargo,Van/Minivan
+055EEK94lj,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Toyota,2013,Camry,Sedan
+05CqTLAi9E,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,2001,Metro,Sedan
+06m9crtxQK,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,MINI,2015,Roadster,Convertible
+07m1V6xaQU,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Nissan,2015,LEAF,Hatchback
+08loiCcIMb,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Ram,2016,3500 Crew Cab,Pickup
+08rX52gUbt,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Jeep,2005,Wrangler,SUV
+08zqjsSZ5o,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chevrolet,2016,Express 2500 Passenger,Van/Minivan
+09CJmaW61C,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Lexus,2015,LX,SUV
+09YGRpfrUw,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Volkswagen,2008,Eos,Convertible
+0AH9JKQjFW,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,2002,Camaro,"Coupe, Convertible"
+0AhZGkhSHv,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Isuzu,2006,Ascender,SUV
+0Ao1WeX75b,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Kia,2010,Rondo,Wagon
+0BdH8NaRLb,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,2002,Blazer,SUV
+0BvkfobL3M,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,1997,Express 2500 Passenger,Van/Minivan
+0D63NNLMW2,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Toyota,2008,Yaris,"Hatchback, Sedan"
+0D734Prhwq,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Mercedes-Benz,1998,CLK-Class,Coupe
+0DrVWKF0jh,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,GMC,2007,Savana 1500 Passenger,Van/Minivan
+0E0tvcE8pC,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Dodge,2017,Grand Caravan Passenger,Van/Minivan
+0E4EBKSIGM,Thu Apr 15 2021 09:38:27 GMT-0400 (Eastern Daylight Time),Thu Apr 15 2021 09:38:27 GMT-0400 (Eastern Daylight Time),null,Audi,2021,A6 allroad,Wagon
+0EOIF22A0X,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Geo,1992,Tracker,SUV
+0EXHqXz3Ty,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Ford,2002,Crown Victoria,Sedan
+0FQFPsHhlQ,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Lexus,2008,SC,Convertible
+0Fc5VaT8fR,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,MINI,2005,Convertible,Convertible
+0Ggx82KZt3,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Acura,2017,RLX Sport Hybrid,Sedan
+0GkV36Dzdy,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Nissan,2012,NV3500 HD Cargo,Van/Minivan
+0GzwsEIDgT,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Porsche,2002,Boxster,Convertible
+0HPodXJMsd,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Dodge,2002,Dakota Regular Cab,Pickup
+0HTH9Cb0UF,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Audi,2003,TT,"Coupe, Convertible"
+0HaHzqprIP,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Porsche,2017,Panamera,Sedan
+0HaUH9pJtY,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Ford,1998,Club Wagon,Van/Minivan
+0HkN2DAbQW,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,GMC,2001,Sierra 2500 HD Extended Cab,Pickup
+0Hrg39vm7t,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Toyota,2001,Tacoma Double Cab,Pickup
+0IEeEewf24,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Toyota,1993,Xtra Cab,Pickup
+0J1KCLOT8s,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Dodge,2014,Avenger,Sedan
+0JAntNRxL1,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Lincoln,2019,Navigator,SUV
+0Je9WRKxZi,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,GMC,2005,Safari Passenger,Van/Minivan
+0Kd7NCG4Fj,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chevrolet,2013,Impala,Sedan
+0LNJ7IheBu,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Ford,2018,F150 Super Cab,Pickup
+0LkiGdwxep,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Isuzu,1994,Trooper,SUV
+0M0rnJQ2SI,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Acura,2017,RDX,SUV
+0M3VnG0U9U,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,1998,Suburban 2500,SUV
+0Mc78j919Q,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,INFINITI,2011,QX,SUV
+0N59JICbjg,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Pontiac,2008,G8,Sedan
+0Nk5B8F92K,Thu Apr 15 2021 09:38:27 GMT-0400 (Eastern Daylight Time),Thu Apr 15 2021 09:38:27 GMT-0400 (Eastern Daylight Time),null,Honda,2021,Accord,Sedan
+0O5UhL3HF2,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Nissan,2019,NV1500 Cargo,Van/Minivan
+0PRPlLBnc6,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Dodge,2012,Grand Caravan Passenger,Van/Minivan
+0PoW33EjLl,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Dodge,2000,Durango,SUV
+0Q0cqBl5mP,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Ram,2014,3500 Mega Cab,Pickup
+0QtxyOW86m,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Volkswagen,2013,Eos,Convertible
+0Qw0YPYgVM,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Hyundai,1999,Elantra,"Sedan, Wagon"
+0RFEHgdBvK,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Suzuki,2008,Forenza,"Sedan, Wagon"
+0RIo25QdgK,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Chevrolet,2008,Uplander Cargo,Van/Minivan
+0S2Unr9L8F,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Chevrolet,2010,Traverse,SUV
+0SHLyvuzJo,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Mercedes-Benz,2017,Sprinter 3500 XD Cargo,Van/Minivan
+0STxOsBKxM,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Ford,2017,Flex,SUV
+0TAQ519hEC,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Kia,2009,Rondo,Wagon
+0TWQiqGDmm,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Land Rover,2015,LR4,SUV
+0UOmkHvRKG,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Jeep,2007,Grand Cherokee,SUV
+0VDMDyJ3Yo,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Honda,1995,Passport,SUV
+0WCzu44Xii,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chevrolet,2017,Silverado 3500 HD Regular Cab,Pickup
+0WOdFvimkc,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chevrolet,2018,City Express,Van/Minivan
+0WOy6d8z3t,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Volkswagen,1994,Passat,"Sedan, Wagon"
+0WfS7HMJFw,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Chevrolet,1992,Astro Cargo,Van/Minivan
+0XDsX2cvkj,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Audi,2010,S5,"Coupe, Convertible"
+0XMt0zanb8,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Toyota,2003,Camry,Sedan
+0XYgNb4bl3,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,2001,Venture Passenger,Van/Minivan
+0XcStQz2yE,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Plymouth,1997,Prowler,Convertible
+0YIC0M9MJT,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Honda,2003,Insight,Hatchback
+0YaNEiL02C,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Chrysler,1995,New Yorker,Sedan
+0ZWc0NTihB,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Mitsubishi,2006,Raider Double Cab,Pickup
+0a0wNDww24,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Mercury,2001,Sable,"Sedan, Wagon"
+0aHmWI0R4j,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Nissan,1998,Maxima,Sedan
+0bvUecrdeA,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Nissan,2009,Frontier King Cab,Pickup
+0cZmzc1NhX,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,GMC,2013,Terrain,SUV
+0dAtYD141Z,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Mercedes-Benz,2018,Metris WORKER Passenger,Van/Minivan
+0dCrW8VLX0,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,GMC,2008,Sierra 1500 Regular Cab,Pickup
+0e5Wzuow31,Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:21 GMT-0500 (Eastern Standard Time),null,Hyundai,1994,Sonata,Sedan
+0esEoOCjLe,Thu Apr 15 2021 09:38:28 GMT-0400 (Eastern Daylight Time),Thu Apr 15 2021 09:38:28 GMT-0400 (Eastern Daylight Time),null,MAZDA,2021,MAZDA3,"Hatchback,Sedan"
+0fF0Pktx3l,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,Mercury,2007,Grand Marquis,Sedan
+0fH8Vqz8M4,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,1996,Suburban 2500,SUV
+0fM2gLPSFV,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,GMC,2001,Sonoma Crew Cab,Pickup
+0fOPVThdTJ,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chrysler,2002,Concorde,Sedan
+0gX0X0NJkl,Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:18 GMT-0500 (Eastern Standard Time),null,Chrysler,2017,300,Sedan
+0gfCoxEElK,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Ford,1997,F150 Regular Cab,Pickup
+0ghcNpe6fI,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,GMC,2001,Yukon,SUV
+0h5ggsDQfK,Thu Apr 15 2021 09:38:28 GMT-0400 (Eastern Daylight Time),Thu Apr 15 2021 09:38:28 GMT-0400 (Eastern Daylight Time),null,Volkswagen,2021,Atlas Cross Sport,SUV
+0hKYVBPSTM,Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:20 GMT-0500 (Eastern Standard Time),null,Chevrolet,2003,Suburban 2500,SUV
+0hXQFUkhx0,Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),Mon Jan 27 2020 15:44:19 GMT-0500 (Eastern Standard Time),null,MAZDA,2009,B-Series Regular Cab,Pickup
